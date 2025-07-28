@@ -2,7 +2,7 @@
 
 My submission for the [Frontend Challenge: Office Edition sponsored by Axero, CSS Art: Office Culture](https://dev.to/challenges/frontend/axero).
 
-A creative experiment using pure HTML and CSS to recreate an office scene — no JavaScript, just code. From chairs and laptops to coffee cups and cursor trails, this project brings the 9-to-5 life to your browser with interactive touches and playful animations.
+A project completed using pure HTML and CSS to recreate an office scene — no JavaScript. This project aims to bring the 9-to-5 life to your browser with interactive touches and playful animations.
 
 🔗 [Live Demo](https://pranamyark.github.io/ClockInClockOut-Office/)
 
